@@ -1,0 +1,13 @@
+{
+  "orgName": "DataMask Accenture",
+  "edition": "Developer",
+  "hasSampleData": "true",
+  "features": ["ServiceCloud", "SalesUser", "DataMaskUser", "ServiceUser"]
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "selfSetPasswordInApi": true,
+      "s1EncryptedStoragePref2": false
+    }
+  }
+}
